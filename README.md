@@ -1,1 +1,1 @@
-# Hasell Playground
+# Haskell Playground
