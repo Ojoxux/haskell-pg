@@ -1,1 +1,16 @@
-dist-newstyle
+.direnv/
+result
+result-*
+
+dist-newstyle/
+.stack-work/
+cabal.project.local
+cabal.project.local~
+.ghc.environment.*
+
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+
+.DS_Store
